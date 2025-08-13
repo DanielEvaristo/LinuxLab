@@ -1,0 +1,105 @@
+l2ping (1)           - Send L2CAP echo request and receive answer
+l2test (1)           - L2CAP testing tool
+laptop-detect (1)    - attempt to detect a laptop
+last (1)             - show a listing of last logged in users
+lastb (1)            - show a listing of last logged in users
+lastlog (8)          - reports the most recent login of all users or of a giv...
+lavadecode (1)       - Decode a LAVAFLOW stream into human readable form.
+lcf (1)              - Determine which of the historical versions of a config...
+ld.so (8)            - dynamic linker/loader
+ldapadd (1)          - LDAP modify entry and LDAP add entry tools
+ldapcompare (1)      - LDAP compare tool
+ldapdelete (1)       - LDAP delete entry tool
+ldapexop (1)         - issue LDAP extended operations
+ldapmodify (1)       - LDAP modify entry and LDAP add entry tools
+ldapmodrdn (1)       - LDAP rename entry tool
+ldappasswd (1)       - change the password of an LDAP entry
+ldapsearch (1)       - LDAP search tool
+ldapurl (1)          - LDAP URL formatting tool
+ldapwhoami (1)       - LDAP who am i? tool
+ldattach (8)         - attach a line discipline to a serial line
+ldconfig (8)         - configure dynamic linker run-time bindings
+ldconfig.real - (no manual entry)
+ldd (1)              - print shared object dependencies
+less (1)             - opposite of more
+lessecho (1)         - expand metacharacters
+lessfile (1)         - "input preprocessor" for less.
+lesskey (1)          - specify key bindings for less
+lesspipe (1)         - "input preprocessor" for less.
+let - (no manual entry)
+lexgrog (1)          - parse header information in man pages
+libnetcfg (1)        - configure libnet
+link (1)             - call the link function to create a link to a file
+linkicc (1)          - little cms device link generator.
+linux-boot-prober - (no manual entry)
+linux-check-removal - check whether removal of a kernel is safe
+linux-update-symlinks - maintain symlinks to default kernel and initramfs
+linux-version (1)    - operate on Linux kernel version strings
+linux32 (8)          - change reported architecture in new program environmen...
+linux64 (8)          - change reported architecture in new program environmen...
+listres (1)          - list resources in widgets
+llcstat-bpfcc (8)    - Summarize CPU cache references and misses by process. ...
+ln (1)               - make links between files
+lnstat (8)           - unified linux network statistics
+loadkeys (1)         - load keyboard translation tables
+loads.bt (8)         - Prints load averages. Uses bpftrace/eBPF.
+loadunimap (8)       - load the kernel unicode-to-font mapping table
+local - (no manual entry)
+locale (1)           - get locale-specific information
+locale-check - (no manual entry)
+locale-gen (8)       - generate localisation files from templates
+localectl (1)        - Control the system locale and keyboard layout settings
+localedef (1)        - compile locale definition files
+logger (1)           - enter messages into the system log
+login (1)            - begin session on the system
+loginctl (1)         - Control the systemd login manager
+logname (1)          - print user's login name
+logout (3)           - write utmp and wtmp entries
+logrotate (8)        - rotates, compresses, and mails system logs
+logsave (8)          - save the output of a command in a logfile
+look (1)             - display lines beginning with a given string
+losetup (8)          - set up and control loop devices
+lowntfs-3g (8)       - Third Generation Read/Write NTFS Driver
+lp (1)               - print files
+lpadmin (8)          - configure cups printers and classes
+lpc (8)              - line printer control program (deprecated)
+lpinfo (8)           - show available devices or drivers (deprecated)
+lpmove (8)           - move a job or all jobs to a new destination
+lpoptions (1)        - display or set printer options and defaults
+lpq (1)              - show printer queue status
+lpr (1)              - print files
+lprm (1)             - cancel print jobs
+lpstat (1)           - print cups status information
+ls (1)               - list directory contents
+lsattr (1)           - list file attributes on a Linux second extended file s...
+lsb_release (1)      - print distribution-specific information (minimal imple...
+lsblk (8)            - list block devices
+lscpu (1)            - display information about the CPU architecture
+lshw (1)             - list hardware
+lsinitramfs (8)      - list content of an initramfs image
+lsipc (1)            - show information on IPC facilities currently employed ...
+lslocks (8)          - list local system locks
+lslogins (1)         - display information about known users in the system
+lsmem (1)            - list the ranges of available memory with their online ...
+lsmod (8)            - Show the status of modules in the Linux Kernel
+lsns (8)             - list namespaces
+lsof (8)             - list open files
+lspci (8)            - list all PCI devices
+lspcmcia (8)         - display extended PCMCIA debugging information
+lspgpot (1)          - extracts the ownertrust values from PGP keyrings and l...
+lspower (1)          - enumerate power sources
+lsusb (8)            - list USB devices
+lwp-download (1p)    - Fetch large files from the web
+lwp-dump (1p)        - See what headers and content is returned for a URL
+lwp-mirror (1p)      - Simple mirror utility
+lwp-request (1p)     - Simple command line user agent
+lzcat (1)            - Compress or decompress .xz and .lzma files
+lzcmp (1)            - compare compressed files
+lzdiff (1)           - compare compressed files
+lzegrep (1)          - search compressed files for a regular expression
+lzfgrep (1)          - search compressed files for a regular expression
+lzgrep (1)           - search compressed files for a regular expression
+lzless (1)           - view xz or lzma compressed (text) files
+lzma (1)             - Compress or decompress .xz and .lzma files
+lzmainfo (1)         - show information stored in the .lzma file header
+lzmore (1)           - view xz or lzma compressed (text) files

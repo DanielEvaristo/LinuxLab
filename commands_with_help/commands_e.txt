@@ -1,0 +1,59 @@
+e2freefrag (8)       - report free space fragmentation information
+e2fsck (8)           - check a Linux ext2/ext3/ext4 file system
+e2image (8)          - Save critical ext2/ext3/ext4 file system metadata to a...
+e2label (8)          - Change the label on an ext2/ext3/ext4 file system
+e2mmpstatus (8)      - Check MMP status of an ext4 file system
+e2scrub (8)          - check the contents of a mounted ext[234] file system
+e2scrub_all (8)      - check all mounted ext[234] file systems for errors.
+e2undo (8)           - Replay an undo log for an ext2/ext3/ext4 file system
+e4crypt (8)          - ext4 file system encryption utility
+e4defrag (8)         - online defragmenter for ext4 file system
+eatmydata (1)        - transparently disable fsync() and other data-to-disk s...
+ebtables-nft (8)     - Ethernet bridge frame table administration (nft-based)
+ebtables-nft (8)     - Ethernet bridge frame table administration (nft-based)
+ebtables-nft-restore - iptables using nftables kernel api
+ebtables-nft-save - iptables using nftables kernel api
+ebtables-restore - (no manual entry)
+ebtables-save - (no manual entry)
+ebtables-translate - translation tool to migrate from ebtables to nftables
+ec2metadata - (no manual entry)
+echo (1)             - display a line of text
+ed (1)               - line-oriented text editor
+editor (1)           - Nano's ANOther editor, inspired by Pico
+editres (1)          - a dynamic resource editor for X Toolkit applications
+efibootdump (8)      - dump a boot entries from a variable or a file
+efibootmgr (8)       - change the UEFI Boot Manager configuration
+egrep (1)            - print lines that match patterns
+eject (1)            - eject removable media
+elif - (no manual entry)
+else - (no manual entry)
+enable - (no manual entry)
+enc2xs (1)           - - Perl Encode Module Generator
+encguess (1)         - guess character encodings of files
+enchant-2 (1)        - a spellchecker
+enchant-lsmod-2 (1)  - list provider and dictionary information
+env (1)              - run a program in a modified environment
+envsubst (1)         - substitutes environment variables in shell format strings
+eog (1)              - a GNOME image viewer
+eps2eps (1)          - Ghostscript PostScript "distiller"
+eqn (1)              - format mathematics (equations) for groff or MathML
+esac - (no manual entry)
+esc-m (1)            - ease viewing output of driver data
+ethtool (8)          - query or control network driver and hardware settings
+eutp (1)             - EuroBraille file transferring
+eval - (no manual entry)
+evince (1)           - GNOME document viewer
+evince-previewer - show a printing preview of PostScript and PDF documents
+evince-thumbnailer - create png thumbnails from PostScript and PDF documents
+ex (1)               - Vi IMproved, a programmer's text editor
+exec (3)             - execute a file
+execsnoop-bpfcc (8)  - Trace new processes via exec() syscalls. Uses Linux eB...
+execsnoop.bt (8)     - Trace new processes via exec() syscalls. Uses bpftrace...
+exit (2)             - terminate the calling process
+exitsnoop-bpfcc (8)  - Trace all process termination (exit, fatal signal). Us...
+expand (1)           - convert tabs to spaces
+expiry (1)           - check and enforce password expiration policy
+export - (no manual entry)
+expr (1)             - evaluate expressions
+ext4dist-bpfcc (8)   - Summarize ext4 operation latency. Uses Linux eBPF/bcc.
+ext4slower-bpfcc - Trace slow ext4 file operations, with per-event details.

@@ -1,0 +1,195 @@
+p11-kit (8)          - Tool for operating on configured PKCS#11 modules
+pager (1)            - opposite of more
+pam-auth-update (8)  - manage PAM configuration using packaged profiles
+pam_extrausers_chkpwd - (no manual entry)
+pam_extrausers_update - (no manual entry)
+pam_getenv (8)       - get environment variables from /etc/environment
+pam_namespace_helper - Helper binary that creates home directories
+pam_timestamp_check - Check to see if the default timestamp is valid
+paperconf (1)        - print paper configuration information
+paperconfig (8)      - configure the system default paper size
+parted (8)           - a partition manipulation program
+partprobe (8)        - inform the OS of partition table changes
+partx (8)            - tell the kernel about the presence and numbering of on...
+passwd (1)           - change user password
+paste (1)            - merge lines of files
+patch (1)            - apply a diff file to an original
+pathchk (1)          - check whether file names are valid or portable
+pccardctl (8)        - PCMCIA card control utility
+pdb3 (1)             - the Python debugger
+pdb3.12 (1)          - the Python debugger
+pdf2dsc (1)          - generate a PostScript page list of a PDF document
+pdf2ps (1)           - Ghostscript PDF to PostScript translator
+pdfattach (1)        - Portable Document Format (PDF) document embedded file ...
+pdfdetach (1)        - Portable Document Format (PDF) document embedded file ...
+pdffonts (1)         - Portable Document Format (PDF) font analyzer (version ...
+pdfimages (1)        - Portable Document Format (PDF) image extractor (versio...
+pdfinfo (1)          - Portable Document Format (PDF) document information ex...
+pdfseparate (1)      - Portable Document Format (PDF) page extractor
+pdfsig (1)           - Portable Document Format (PDF) digital signatures tool
+pdftocairo (1)       - Portable Document Format (PDF) to PNG/JPEG/TIFF/PDF/PS...
+pdftohtml (1)        - program to convert PDF files into HTML, XML and PNG im...
+pdftoppm (1)         - Portable Document Format (PDF) to Portable Pixmap (PPM...
+pdftops (1)          - Portable Document Format (PDF) to PostScript converter...
+pdftotext (1)        - Portable Document Format (PDF) to text converter (vers...
+pdfunite (1)         - Portable Document Format (PDF) page merger
+peekfd (1)           - peek at file descriptors of running processes
+perf (1)             - Performance analysis tools for Linux
+perl (1)             - The Perl 5 language interpreter
+perl5.38-x86_64-linux-gnu - The Perl 5 language interpreter
+perl5.38.2 (1)       - The Perl 5 language interpreter
+perlbug (1)          - how to submit bug reports on Perl
+perlcalls-bpfcc (8)  - Summarize method calls from high-level languages and L...
+perldoc - (no manual entry)
+perlflow-bpfcc (8)   - Print a flow graph of method calls in high-level langu...
+perli11ndoc (1p)     - view documentation of installed libraries bound using ...
+perlivp (1)          - Perl Installation Verification Procedure
+perlstat-bpfcc (8)   - Activity stats from high-level languages.
+perlthanks (1)       - how to submit bug reports on Perl
+pf2afm (1)           - Make an AFM file from Postscript (PFB/PFA/PFM) font fi...
+pfbtopfa (1)         - Convert Postscript .pfb fonts to .pfa format using gho...
+pgrep (1)            - look up, signal, or wait for processes based on name a...
+phpcalls-bpfcc (8)   - Summarize method calls from high-level languages and L...
+phpflow-bpfcc (8)    - Print a flow graph of method calls in high-level langu...
+phpstat-bpfcc (8)    - Activity stats from high-level languages.
+pic (1)              - compile pictures for troff or TeX
+pico (1)             - Nano's ANOther editor, inspired by Pico
+piconv (1)           - - iconv(1), reinvented in perl
+pidof (8)            - find the process ID of a running program
+pidpersec-bpfcc (8)  - Count new processes (via fork()). Uses Linux eBPF/bcc.
+pidpersec.bt (8)     - Count new processes (via fork()). Uses bpftrace/eBPF.
+pidstat (1)          - Report statistics for Linux tasks.
+pidwait (1)          - look up, signal, or wait for processes based on name a...
+pinentry (1)         - PIN or pass-phrase entry dialog for GnuPG
+pinentry-curses (1)  - PIN or pass-phrase entry dialog for GnuPG
+pinentry-gnome3 (1)  - PIN or pass-phrase entry dialog for GnuPG
+pinentry-x11 (1)     - PIN or pass-phrase entry dialog for GnuPG
+ping (8)             - send ICMP ECHO_REQUEST to network hosts
+ping4 (8)            - send ICMP ECHO_REQUEST to network hosts
+ping6 (8)            - send ICMP ECHO_REQUEST to network hosts
+pinky (1)            - lightweight finger
+pipewire (1)         - The PipeWire media server
+pipewire-aes67 (1)   - The PipeWire media server
+pipewire-avb (1)     - The PipeWire media server
+pipewire-pulse (1)   - The PipeWire PulseAudio replacement
+pivot_root (2)       - change the root mount
+pkaction (1)         - Get details about a registered action
+pkcheck (1)          - Check whether a process is authorized
+pkcon (1)            - PackageKit console client
+pkexec (1)           - Execute a command as another user
+pkill (1)            - look up, signal, or wait for processes based on name a...
+pkmon (1)            - PackageKit console client
+pkttyagent (1)       - Textual authentication helper
+pl2pm (1)            - Rough tool to translate Perl4 .pl files to Perl5 .pm m...
+pldd (1)             - display dynamic shared objects linked into a process
+plog (1)             - starts up, shuts down or lists the log of PPP connections
+plymouth (1)         - Send commands to plymouthd
+plymouthd (8)        - The plymouth daemon
+pmap (1)             - report memory map of a process
+pnm2ppa (1)          - convert portable anymap (PNM) images to HP's PPA print...
+pod2html (1)         - convert .pod files to .html files
+pod2man (1)          - Convert POD data to formatted *roff input
+pod2text (1)         - Convert POD data to formatted ASCII text
+pod2usage (1)        - print usage messages from embedded pod docs in files
+podchecker (1)       - check the syntax of POD format documentation files
+poff (1)             - starts up, shuts down or lists the log of PPP connections
+pon (1)              - starts up, shuts down or lists the log of PPP connections
+popd - (no manual entry)
+poweroff (8)         - Power off, reboot, or halt the machine
+powerprofilesctl - Command line utility to control Power Profiles Daemon
+ppchcalls-bpfcc (8)  - Summarize ppc hcall counts and latencies.
+ppdc (1)             - cups ppd compiler (deprecated)
+ppdhtml (1)          - cups html summary generator (deprecated)
+ppdi (1)             - import ppd files (deprecated)
+ppdmerge (1)         - merge ppd files (deprecated)
+ppdpo (1)            - ppd message catalog generator (deprecated)
+pphs - (no manual entry)
+pppd (8)             - Point-to-Point Protocol Daemon
+pppdump (8)          - convert PPP record file to readable format
+pppoe-discovery (8)  - perform PPPoE discovery
+pppstats (8)         - print PPP statistics
+pptp (8)             - PPTP driver
+pptpsetup (8)        - Point-to-Point Tunneling Protocol setup
+pr (1)               - convert text files for printing
+precat (1)           - prefix delta compressor for Aspell
+preconv (1)          - prepare files for typesetting with groff
+preunzip (1)         - prefix delta compressor for Aspell
+prezip (1)           - prefix delta compressor for Aspell
+prezip-bin (1)       - prefix zip delta word list compressor/decompressor
+printafm (1)         - Print the metrics from a Postscript font in AFM format...
+printenv (1)         - print all or part of environment
+printer-profile (1)  - Profile using X-Rite ColorMunki and Argyll CMS
+printf (1)           - format and print data
+prlimit (1)          - get and set process resource limits
+pro (1)              - Manage Ubuntu Pro services from Canonical
+profile-bpfcc (8)    - Profile CPU usage by sampling stack traces. Uses Linux...
+prove (1)            - Run tests through a TAP harness.
+prtstat (1)          - print statistics of a process
+ps (1)               - report a snapshot of the current processes.
+ps2ascii (1)         - Ghostscript translator from PostScript or PDF to ASCII
+ps2epsi (1)          - generate conforming Encapsulated PostScript
+ps2pdf (1)           - Convert PostScript to PDF using ghostscript
+ps2pdf12 (1)         - Convert PostScript to PDF 1.2 (Acrobat 3-and-later com...
+ps2pdf13 (1)         - Convert PostScript to PDF 1.3 (Acrobat 4-and-later com...
+ps2pdf14 (1)         - Convert PostScript to PDF 1.4 (Acrobat 5-and-later com...
+ps2pdfwr (1)         - Convert PostScript to PDF without specifying Compatibi...
+ps2ps (1)            - Ghostscript PostScript "distiller"
+ps2ps2 - (no manual entry)
+ps2txt - (no manual entry)
+psfaddtable (1)      - add a Unicode character table to a console font
+psfgettable (1)      - extract the embedded Unicode character table from a co...
+psfstriptable (1)    - remove the embedded Unicode character table from a con...
+psfxtable (1)        - handle Unicode character tables for console fonts
+psicc (1)            - little cms PostScript converter.
+pslog (1)            - report current logs path of a process
+pstree (1)           - display a tree of processes
+pstree.x11 (1)       - display a tree of processes
+ptar (1)             - a tar-like program written in perl
+ptardiff (1)         - program that diffs an extracted archive against an une...
+ptargrep (1)         - Apply pattern matching to the contents of files in a t...
+ptx (1)              - produce a permuted index of file contents
+pushd - (no manual entry)
+pw-cat (1)           - Play and record media with PipeWire
+pw-cli (1)           - The PipeWire Command Line Interface
+pw-config (1)        - Debug PipeWire Config parsing
+pw-dot (1)           - The PipeWire dot graph dump
+pw-dsdplay (1)       - Play and record media with PipeWire
+pw-dump (1)          - The PipeWire state dumper
+pw-encplay (1)       - Play and record media with PipeWire
+pw-link (1)          - The PipeWire Link Command
+pw-loopback (1)      - PipeWire loopback client
+pw-metadata (1)      - The PipeWire metadata
+pw-mididump (1)      - The PipeWire MIDI dump
+pw-midiplay (1)      - Play and record media with PipeWire
+pw-midirecord (1)    - Play and record media with PipeWire
+pw-mon (1)           - The PipeWire monitor
+pw-play (1)          - Play and record media with PipeWire
+pw-profiler (1)      - The PipeWire profiler
+pw-record (1)        - Play and record media with PipeWire
+pw-reserve (1)       - The PipeWire device reservation utility
+pw-top (1)           - The PipeWire process viewer
+pwck (8)             - verify the integrity of password files
+pwconv (8)           - convert to and from shadow passwords and groups
+pwd (1)              - print name of current/working directory
+pwdx (1)             - report current working directory of a process
+pwhistory_helper - Helper binary that transfers password hashes from pass...
+pwunconv (8)         - convert to and from shadow passwords and groups
+py3clean (1)         - removes .pyc and .pyo files
+py3compile (1)       - byte compile Python 3 source files
+py3versions (1)      - print python3 version information
+pybabel - (no manual entry)
+pybabel-python3 - (no manual entry)
+pydoc3 (1)           - the Python documentation tool
+pydoc3.12 (1)        - the Python documentation tool
+pygettext3 (1)       - Python equivalent of xgettext(1)
+pygettext3.12 (1)    - Python equivalent of xgettext(1)
+pygmentize (1)       - highlights the input file
+pyserial-miniterm - (no manual entry)
+pyserial-ports - (no manual entry)
+python3 (1)          - an interpreted, interactive, object-oriented programmi...
+python3.12 (1)       - an interpreted, interactive, object-oriented programmi...
+pythoncalls-bpfcc - Summarize method calls from high-level languages and ...
+pythonflow-bpfcc - Print a flow graph of method calls in high-level langu...
+pythongc-bpfcc (8)   - Trace garbage collection events in high-level languages.
+pythonstat-bpfcc - Activity stats from high-level languages.
+pzstd (1)            - parallelized Zstandard compression, a la pigz

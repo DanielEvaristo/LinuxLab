@@ -1,0 +1,17 @@
+javacalls-bpfcc
+javaflow-bpfcc
+javagc-bpfcc
+javaobjnew-bpfcc
+javastat-bpfcc
+javathreads-bpfcc
+jobs
+join
+journalctl
+jpgicc
+jq
+json-patch-jsondiff
+json_pp
+jsondiff
+jsonpatch
+jsonpointer
+jsonschema

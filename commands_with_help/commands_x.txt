@@ -1,0 +1,97 @@
+x-session-manager - Start the GNOME desktop environment
+x-terminal-emulator - A terminal emulator for GNOME
+x-www-browser - (no manual entry)
+x11perf (1)          - X11 server performance test program
+x11perfcomp (1)      - X11 server performance comparison program
+x86_64 (8)           - change reported architecture in new program environmen...
+x86_64-linux-gnu-cpp - The C Preprocessor
+x86_64-linux-gnu-cpp-13 - The C Preprocessor
+x86_energy_perf_policy - Manage Energy vs. Performance Policy via x86 Mod...
+xargs (1)            - build and execute command lines from standard input
+xauth (1)            - X authority file utility
+xbiff (1)            - mailbox flag for X
+xbrlapi (1)          - X11 BrlAPI helper for Linux/Unix
+xcalc (1)            - scientific calculator for X
+xclipboard (1)       - X clipboard client
+xclock (1)           - analog / digital clock for X
+xcmsdb (1)           - Device Color Characterization utility for X Color Mana...
+xconsole (1)         - monitor system console messages with X
+xcursorgen (1)       - create an X cursor file from a collection of PNG images
+xcutsel (1)          - interchange between cut buffer and selection
+xdg-dbus-proxy (1)   - D-Bus proxy
+xdg-desktop-icon - command line tool for (un)installing icons to the desktop
+xdg-desktop-menu - command line tool for (un)installing desktop menu items
+xdg-email (1)        - command line tool for sending mail using the user's pr...
+xdg-icon-resource - command line tool for (un)installing icon resources
+xdg-mime (1)         - command line tool for querying information about file ...
+xdg-open (1)         - opens a file or URL in the user's preferred application
+xdg-screensaver (1)  - command line tool for controlling the screensaver
+xdg-settings (1)     - get various settings from the desktop environment
+xdg-user-dir (1)     - Find an XDG user dir
+xdg-user-dirs-gtk-update - (no manual entry)
+xdg-user-dirs-update - Update XDG user dir configuration
+xditview (1)         - display ditroff output
+xdpyinfo (1)         - display information utility for X
+xdriinfo (1)         - query configuration information of DRI drivers
+xedit (1)            - simple text editor for X
+xev (1)              - print contents of X events
+xeyes (1)            - a follow the mouse X demo
+xfd (1)              - display all the characters in an X font
+xfontsel (1)         - point and click selection of X11 font names
+xfsdist-bpfcc (8)    - Summarize XFS operation latency. Uses Linux eBPF/bcc.
+xfsdist.bt (8)       - Summarize XFS operation latency. Uses bpftrace/eBPF.
+xfsslower-bpfcc (8)  - Trace slow xfs file operations, with per-event details.
+xgamma (1)           - Alter a monitor's gamma correction through the X server
+xgc (1)              - X graphics demo
+xhost (1)            - server access control program for X
+xinit (1)            - X Window System initializer
+xinput (1)           - utility to configure and test X input devices
+xkbbell (1)          - XKB extension user utility
+xkbcomp (1)          - compile XKB keyboard description
+xkbevd (1)           - XKB event daemon
+xkbprint (1)         - print an XKB keyboard description
+xkbvleds (1)         - XKB extension user utility
+xkbwatch (1)         - XKB extension user utility
+xkeystone - (no manual entry)
+xkill (1)            - kill a client by its X resource
+xload (1)            - system load average display for X
+xlogo (1)            - X Window System logo
+xlsatoms (1)         - list interned atoms defined on server
+xlsclients (1)       - list client applications running on a display
+xlsfonts (1)         - server font list displayer for X
+xmag (1)             - magnify parts of the screen
+xman (1)             - Manual page display program for the X Window System
+xmessage (1)         - display a message or query in a window (X-based /bin/e...
+xmodmap (1)          - utility for modifying keymaps and pointer button mappi...
+xmore (1)            - plain text display program for the X Window System
+xprop (1)            - property displayer for X
+xqxdecode (1)        - Decode a XQX stream into human readable form.
+xrandr (1)           - primitive command line interface to RandR extension
+xrdb (1)             - X server resource database utility
+xrefresh (1)         - refresh all or part of an X screen
+xset (1)             - user preference utility for X
+xsetmode (1)         - set the mode for an X Input device
+xsetpointer (1)      - set an X Input device as the main pointer
+xsetroot (1)         - root window parameter setting utility for X
+xsetwacom (1)        - commandline utility to query and modify wacom driver s...
+xsm (1)              - X Session Manager
+xstdcmap (1)         - X standard colormap utility
+xsubpp (1)           - compiler to convert Perl XS code into C code
+xtables-legacy-multi - iptables using old getsockopt/setsockopt-based ker...
+xtables-monitor (8)  - show changes to rule set and trace-events
+xtables-nft-multi - iptables using nftables kernel api
+xvidtune (1)         - video mode tuner for Xorg
+xvinfo (1)           - Print out X-Video extension adaptor information
+xwd (1)              - dump an image of an X window
+xwininfo (1)         - window information utility for X
+xwud (1)             - image displayer for X
+xxd (1)              - make a hex dump or do the reverse.
+xz (1)               - Compress or decompress .xz and .lzma files
+xzcat (1)            - Compress or decompress .xz and .lzma files
+xzcmp (1)            - compare compressed files
+xzdiff (1)           - compare compressed files
+xzegrep (1)          - search compressed files for a regular expression
+xzfgrep (1)          - search compressed files for a regular expression
+xzgrep (1)           - search compressed files for a regular expression
+xzless (1)           - view xz or lzma compressed (text) files
+xzmore (1)           - view xz or lzma compressed (text) files

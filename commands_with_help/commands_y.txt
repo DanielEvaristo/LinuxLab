@@ -1,0 +1,3 @@
+yelp (1)             - browse system documentation
+yes (1)              - output a string repeatedly until killed
+ypdomainname (1)     - show or set the system's NIS/YP domain name

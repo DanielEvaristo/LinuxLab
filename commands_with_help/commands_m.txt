@@ -1,0 +1,85 @@
+m17n-db - (no manual entry)
+m2300w - (no manual entry)
+m2300w-wrapper - (no manual entry)
+m2400w - (no manual entry)
+make-ssl-cert (8)    - Debconf wrapper for openssl
+man (1)              - an interface to the system reference manuals
+man-recode (1)       - convert manual pages to another encoding
+mandb (8)            - create or update the manual page index caches
+manpath (1)          - determine search path for manual pages
+mapfile - (no manual entry)
+mapscrn (8)          - load screen output mapping table
+markdown-it - (no manual entry)
+mawk (1)             - pattern scanning and text processing language
+mbim-network (1)     - Simple network management of MBIM devices
+mbimcli (1)          - Control MBIM devices
+mcookie (1)          - generate magic cookies for xauth
+md5sum (1)           - compute and check MD5 message digest
+md5sum.textutils - compute and check MD5 message digest
+mdflush-bpfcc (8)    - Trace md flush events. Uses Linux eBPF/bcc.
+mdflush.bt (8)       - Trace md flush events. Uses bpftrace/eBPF.
+mdig (1)             - DNS pipelined lookup utility
+memhog (8)           - Allocates memory with policy for testing
+memleak-bpfcc (8)    - Print a summary of outstanding allocations and their c...
+memusage (1)         - profile memory usage of a program
+memusagestat (1)     - generate graphic from memory profiling data
+mesa-overlay-control.py - (no manual entry)
+mesg (1)             - display (or do not display) messages from other users
+migrate-pubring-from-classic-gpg - Migrate a public keyring from "classic...
+migratepages (8)     - Migrate the physical location a processes pages
+migspeed (8)         - Test the speed of page migration
+mimeopen (1p)        - Open files by mimetype
+mimetype (1p)        - Determine file type
+min12xxw (1)         - Convert pbmraw streams to Minolta PagePro 12xxW languages
+mk_modmap (8)        - translate a Linux keytable file into an xmodmap file
+mkdir (1)            - make directories
+mkdosfs (8)          - create an MS-DOS FAT filesystem
+mke2fs (8)           - create an ext2/ext3/ext4 file system
+mkfifo (1)           - make FIFOs (named pipes)
+mkfontdir (1)        - create an index of X font files in a directory
+mkfontscale (1)      - create an index of scalable font files for X
+mkfs (8)             - build a Linux filesystem
+mkfs.bfs (8)         - make an SCO bfs filesystem
+mkfs.cramfs (8)      - make compressed ROM file system
+mkfs.ext2 (8)        - create an ext2/ext3/ext4 file system
+mkfs.ext3 (8)        - create an ext2/ext3/ext4 file system
+mkfs.ext4 (8)        - create an ext2/ext3/ext4 file system
+mkfs.fat (8)         - create an MS-DOS FAT filesystem
+mkfs.minix (8)       - make a Minix filesystem
+mkfs.msdos (8)       - create an MS-DOS FAT filesystem
+mkfs.ntfs (8)        - create an NTFS file system
+mkfs.vfat (8)        - create an MS-DOS FAT filesystem
+mkhomedir_helper - Helper binary that creates home directories
+mkinitramfs (8)      - low-level tool for generating an initramfs image
+mklost+found (8)     - create a lost+found directory on a mounted Linux secon...
+mknod (1)            - make block or character special files
+mkntfs (8)           - create an NTFS file system
+mksquashfs (1)       - tool to create and append to squashfs filesystems
+mkswap (8)           - set up a Linux swap area
+mktemp (1)           - create a temporary file or directory
+mmcli (1)            - Control and monitor the ModemManager
+modinfo (8)          - Show information about a Linux Kernel module
+modprobe (8)         - Add and remove modules from the Linux Kernel
+mokutil (1)          - utility to manipulate machine owner keys
+monitor-sensor - (no manual entry)
+more (1)             - display the contents of a file in a terminal
+mount (2)            - mount filesystem
+mount.fuse (8)       - configuration and mount options for FUSE file systems
+mount.fuse3 (8)      - configuration and mount options for FUSE file systems
+mount.lowntfs-3g - Third Generation Read/Write NTFS Driver
+mount.ntfs (8)       - Third Generation Read/Write NTFS Driver
+mount.ntfs-3g (8)    - Third Generation Read/Write NTFS Driver
+mountpoint (1)       - see if a directory or file is a mountpoint
+mountsnoop-bpfcc - Trace mount() and umount() syscalls. Uses Linux eBPF/bcc.
+mousetweaks (1)      - Accessibility enhancements for pointing devices
+mpris-proxy (1)      - Bluetooth mpris-proxy
+mpstat (1)           - Report processors related statistics.
+mscompress (1)       - compress data using LZ77 algorithm
+msexpand (1)         - decompress data compressed using mscompress(1) or COMP...
+mt (1)               - control magnetic tape drive operation
+mt-gnu (1)           - control magnetic tape drive operation
+mtr (8)              - a network diagnostic tool
+mtr-packet (8)       - send and receive network probes
+mtrace (1)           - interpret the malloc trace log
+mv (1)               - move (rename) files
+mysqld_qslower-bpfcc - Trace MySQL server queries slower than a threshold.

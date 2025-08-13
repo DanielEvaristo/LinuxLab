@@ -1,0 +1,103 @@
+c_rehash (1ssl)      - Create symbolic links to files named by the hash values
+cachestat-bpfcc (8)  - Statistics for linux page cache hit/miss ratios. Uses ...
+cachetop-bpfcc (8)   - Statistics for linux page cache hit/miss ratios per pr...
+calibrate_ppa (8)    - pnm2ppa calibration tool
+caller - (no manual entry)
+canberra-gtk-play - play a sound event
+cancel (1)           - cancel jobs
+capable-bpfcc (8)    - Trace security capability checks (cap_capable()).
+capable.bt (8)       - Trace security capability checks (cap_capable()).
+capsh (1)            - capability shell wrapper
+captoinfo (1)        - convert a termcap description into a terminfo description
+case - (no manual entry)
+cat (1)              - concatenate files and print on the standard output
+catman (8)           - create or update the pre-formatted manual pages
+cd - (no manual entry)
+cd-create-profile - Color Manager Profile Creation Tool
+cd-fix-profile (1)   - Color Manager Testing Tool
+cd-iccdump - (no manual entry)
+cd-it8 (1)           - Color Manager Testing Tool
+cfdisk (8)           - display or manipulate a disk partition table
+cgdisk (8)           - Curses-based GUID partition table (GPT) manipulator
+chacl (1)            - change the access control list of a file or directory
+chage (1)            - change user password expiry information
+chardet (1)          - universal character encoding detector
+chardetect (1)       - universal character encoding detector
+chat (8)             - Automated conversational script with a modem
+chattr (1)           - change file attributes on a Linux file system
+chcon (1)            - change file security context
+chcpu (8)            - configure CPUs
+check-language-support - returns the list of missing packages in order to...
+chfn (1)             - change real user name and information
+chgpasswd (8)        - update group passwords in batch mode
+chgrp (1)            - change group ownership
+chmem (8)            - configure memory
+chmod (1)            - change file mode bits
+choom (1)            - display and adjust OOM-killer score.
+chown (1)            - change file owner and group
+chpasswd (8)         - update passwords in batch mode
+chroot (2)           - change root directory
+chrt (1)             - manipulate the real-time attributes of a process
+chsh (1)             - change login shell
+chvt (1)             - change foreground virtual terminal
+cifsiostat (1)       - Report CIFS statistics.
+ciptool (1)          - Bluetooth Common ISDN Access Profile (CIP)
+ckbcomp (1)          - compile a XKB keyboard description to a keymap suitabl...
+cksum (1)            - compute and verify file checksums
+clear (1)            - clear the terminal screen
+clear_console (1)    - clear the console
+cloud-id (1)         - Report the canonical cloud-id for this instance
+cloud-init (1)       - Cloud instance initialization
+cloud-init-per (1)   - Run a command with arguments at a specific frequency
+cmp (1)              - compare two files byte by byte
+cobjnew-bpfcc (8)    - Summarize object allocations in high-level languages.
+codepage (1)         - extract a codepage from an MSDOS codepage file
+col (1)              - filter reverse line feeds from input
+colcrt (1)           - filter nroff output for CRT previewing
+colormgr (1)         - Color Manager Testing Tool
+colrm (1)            - remove columns from a file
+column (1)           - columnate lists
+comm (1)             - compare two sorted files line by line
+command - (no manual entry)
+compactsnoop-bpfcc - Trace compact zone events. Uses Linux eBPF/bcc.
+compgen - (no manual entry)
+complete - (no manual entry)
+compopt - (no manual entry)
+continue - (no manual entry)
+coproc - (no manual entry)
+corelist (1)         - a commandline frontend to Module::CoreList
+cp (1)               - copy files and directories
+cpan (1)             - easily interact with CPAN from the command line
+cpan5.38-x86_64-linux-gnu - easily interact with CPAN from the command line
+cpgr (8)             - copy with locking the given file to the password or gr...
+cpio (1)             - copy files to and from archives
+x86_64-linux-gnu-cpp-13 - The C Preprocessor
+cpp-13 - (no manual entry)
+cppw (8)             - copy with locking the given file to the password or gr...
+cpudist-bpfcc (8)    - On- and off-CPU task time as a histogram.
+cpupower (1)         - Shows and sets processor power related values
+cpuunclaimed-bpfcc - Sample CPU run queues and calculate unclaimed idle C...
+cpuwalk.bt (8)       - Sample which CPUs are executing processes.. Uses bpftr...
+cracklib-check (8)   - Check passwords using libcrack2
+cracklib-format (8)  - cracklib dictionary utilities
+cracklib-packer (8)  - cracklib dictionary utilities
+cracklib-unpacker - cracklib dictionary utilities
+create-cracklib-dict - Check passwords using libcrack2
+criticalstat-bpfcc - A tracer to find and report long atomic critical sec...
+cron (8)             - daemon to execute scheduled commands (Vixie Cron)
+crontab (1)          - maintain crontab files for individual users (Vixie Cron)
+csplit (1)           - split a file into sections determined by context lines
+ctrlaltdel (8)       - set the function of the Ctrl-Alt-Del combination
+ctstat (8)           - unified linux network statistics
+cups-browsed (8)     - A daemon for browsing the Bonjour broadcasts of shared...
+cupsaccept (8)       - accept/reject jobs sent to a destination
+cupsctl (8)          - configure cupsd.conf options
+cupsd (8)            - cups scheduler
+cupsdisable (8)      - stop/start printers and classes
+cupsenable (8)       - stop/start printers and classes
+cupsfilter (8)       - convert a file to another format using cups filters (d...
+cupsreject (8)       - accept/reject jobs sent to a destination
+cupstestppd (1)      - test conformance of ppd files (deprecated)
+cut (1)              - remove sections from each line of files
+cvt (1)              - calculate VESA CVT mode lines
+cvtsudoers (1)       - convert between sudoers file formats

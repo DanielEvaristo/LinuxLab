@@ -1,0 +1,90 @@
+dash (1)             - command interpreter (shell)
+date (1)             - print or set the system date and time
+dbslower-bpfcc (8)   - Trace MySQL/PostgreSQL server queries slower than a th...
+dbstat-bpfcc (8)     - Collect histograms of MySQL/PostgreSQL query latencies.
+dbus-cleanup-sockets - clean up leftover sockets in a directory
+dbus-daemon (1)      - Message bus daemon
+dbus-monitor (1)     - debug probe to print message bus messages
+dbus-run-session - start a process as a new D-Bus session
+dbus-send (1)        - Send a message to a message bus
+dbus-update-activation-environment - update environment used for D-Bus se...
+dbus-uuidgen (1)     - Utility to generate UUIDs
+dbxtool (1)          - (unknown subject)
+dc (1)               - an arbitrary precision calculator
+dcb (8)              - show / manipulate DCB (Data Center Bridging) settings
+dconf (1)            - Simple tool for manipulating a dconf database
+dcsnoop-bpfcc (8)    - Trace directory entry cache (dcache) lookups. Uses Lin...
+dcsnoop.bt (8)       - Trace directory entry cache (dcache) lookups. Uses bpf...
+dcstat-bpfcc (8)     - Directory entry cache (dcache) stats. Uses Linux eBPF/...
+dd (1)               - convert and copy a file
+ddstdecode (1)       - Decode a Ricoh DDST stream into human readable form.
+deadlock-bpfcc (8)   - Find potential deadlocks (lock order inversions) in a ...
+deallocvt (1)        - deallocate unused virtual consoles
+deb-systemd-helper - subset of systemctl for machines not running systemd
+deb-systemd-invoke - wrapper around systemctl, respecting policy-rc.d
+debconf (1)          - run a debconf-using program
+debconf-apt-progress - install packages using debconf to display a progre...
+debconf-communicate - communicate with debconf
+debconf-copydb (1)   - copy a debconf database
+debconf-escape (1)   - helper when working with debconf's escape capability
+debconf-set-selections - insert new values into the debconf database
+debconf-show (1)     - query the debconf database
+debian-distro-info - provides information about Debian's distributions
+debugfs (8)          - ext2/ext3/ext4 file system debugger
+declare - (no manual entry)
+delgroup (8)         - remove a user or group from the system
+delpart (8)          - tell the kernel to forget about a partition
+deluser (8)          - remove a user or group from the system
+delv (1)             - DNS lookup and validation utility
+depmod (8)           - Generate modules.dep and map files.
+desktop-file-edit - Installation and edition of desktop files
+desktop-file-install - Installation and edition of desktop files
+desktop-file-validate - Validate desktop entry files
+devlink (8)          - Devlink tool
+df (1)               - report file system space usage
+dh_bash-completion - install bash completions for package
+dh_installxmlcatalogs - install and register XML catalog files
+dh_perl_openssl (1)  - add dependencies required for OpenSSL modules
+dhcpcd (8)           - a DHCP client
+diff (1)             - compare files line by line
+diff3 (1)            - compare three files line by line
+dig (1)              - DNS lookup utility
+dir (1)              - list directory contents
+dircolors (1)        - color setup for ls
+dirmngr (8)          - GnuPG's network access daemon
+dirmngr-client (1)   - Tool to access the Dirmngr services
+dirname (1)          - strip last component from file name
+dirs - (no manual entry)
+dirtop-bpfcc (8)     - File reads and writes by directory. Top for directories.
+disown - (no manual entry)
+distro-info (1)      - provides information about the distributions' releases
+dmesg (1)            - print or control the kernel ring buffer
+dmidecode (8)        - DMI table decoder
+dmsetup (8)          - low level logical volume management
+dmstats (8)          - device-mapper statistics management
+dnsdomainname (1)    - show the system's DNS domain name
+dnsmasq (8)          - A lightweight DHCP and caching DNS server.
+do - (no manual entry)
+do-release-upgrade - upgrade operating system to latest release
+domainname (1)       - show or set the system's NIS/YP domain name
+done - (no manual entry)
+dosfsck (8)          - check and repair MS-DOS FAT filesystems
+dosfslabel (8)       - set or get MS-DOS filesystem label or volume ID
+dpkg (1)             - package manager for Debian
+dpkg-deb (1)         - Debian package archive (.deb) manipulation tool
+dpkg-divert (1)      - override a package's version of a file
+dpkg-maintscript-helper - works around known dpkg limitations in maintain...
+dpkg-preconfigure - let packages ask questions prior to their installation
+dpkg-query (1)       - a tool to query the dpkg database
+dpkg-realpath (1)    - print the resolved pathname with DPKG_ROOT support
+dpkg-reconfigure - reconfigure an already installed package
+dpkg-split (1)       - Debian package archive split/join tool
+dpkg-statoverride - override ownership and mode of files
+dpkg-trigger (1)     - a package trigger utility
+driverless (1)       - PPD generator utility for driverless printing
+driverless-fax - (no manual entry)
+drsnoop-bpfcc (8)    - Trace direct reclaim events. Uses Linux eBPF/bcc.
+du (1)               - estimate file space usage
+dumpe2fs (8)         - dump ext2/ext3/ext4 file system information
+dumpkeys (1)         - dump keyboard translation tables
+dvipdf (1)           - Convert TeX DVI file to PDF using ghostscript and dvips

@@ -1,0 +1,92 @@
+factor (1)           - factor numbers
+faillock (8)         - Tool for displaying and modifying the authentication f...
+faillog (5)          - login failure logging file
+fallocate (1)        - preallocate or deallocate space to a file
+false (1)            - do nothing, unsuccessfully
+fatlabel (8)         - set or get MS-DOS filesystem label or volume ID
+fc - (no manual entry)
+fc-cache (1)         - build font information cache files
+fc-cat (1)           - read font information cache files
+fc-conflist (1)      - list the configuration files processed by Fontconfig
+fc-list (1)          - list available fonts
+fc-match (1)         - match available fonts
+fc-pattern (1)       - parse and show pattern
+fc-query (1)         - query font files
+fc-scan (1)          - scan font files or directories
+fc-validate (1)      - validate font files
+fdisk (8)            - manipulate disk partition table
+fg - (no manual entry)
+fgconsole (1)        - print the number of the active VT.
+fgrep (1)            - print lines that match patterns
+fi - (no manual entry)
+FILE (3type)         - input/output stream
+file2brl (1)         - Translate an xml or a text file into an embosser-ready...
+filefrag (8)         - report on file fragmentation
+filegone-bpfcc (8)   - Trace why file gone (deleted or renamed). Uses Linux e...
+filelife-bpfcc (8)   - Trace the lifespan of short-lived files. Uses Linux eB...
+fileslower-bpfcc - Trace slow synchronous file reads and writes.
+filetop-bpfcc (8)    - File reads and writes by filename and process. Top for...
+find (1)             - search for files in a directory hierarchy
+findfs (8)           - find a filesystem by label or UUID
+findmnt (8)          - find a filesystem
+firefox - (no manual entry)
+firefox.geckodriver - (no manual entry)
+firmware-updater - (no manual entry)
+fixparts (8)         - MBR partition table repair utility
+flock (1)            - manage locks from shell scripts
+fmt (1)              - simple optimal text formatter
+fold (1)             - wrap each input line to fit in specified width
+fonttosfnt (1)       - Wrap a bitmap font in a sfnt (TrueType) wrapper
+foo2ddst (1)         - Convert Ghostscript pbmraw into a DDST printer stream
+foo2ddst-wrapper - Convert Postscript into a DDST printer stream
+foo2hbpl2 (1)        - Convert Ghostscript pbmraw or bitcmyk format into a ZJ...
+foo2hbpl2-wrapper - Convert Postscript into a ZJS printer stream
+foo2hiperc (1)       - Convert Ghostscript pbmraw or bitcmyk format into a HI...
+foo2hiperc-wrapper - Convert Postscript into a HIPERC printer stream
+foo2hp (1)           - Convert Ghostscript pbmraw or bitcmyk format into a ZJ...
+foo2hp2600-wrapper - Convert Postscript into a ZJS printer stream
+foo2lava (1)         - Convert Ghostscript pbmraw or bitcmyk format into a LA...
+foo2lava-wrapper - Convert Postscript into a LAVAFLOW or OPL printer stream
+foo2oak (1)          - Convert Ghostscript pbmraw, pgmraw or bitcmyk format i...
+foo2oak-wrapper (1)  - Convert Postscript into an OAKT printer stream
+foo2qpdl (1)         - Convert Ghostscript pbmraw or bitcmyk format into a QP...
+foo2qpdl-wrapper - Convert Postscript into a QPDL printer stream
+foo2slx (1)          - Convert Ghostscript pbmraw or bitcmyk format into a SL...
+foo2slx-wrapper (1)  - Convert Postscript into a SLX printer stream
+foo2xqx (1)          - Convert Ghostscript pbmraw into a XQX printer stream
+foo2xqx-wrapper (1)  - Convert Postscript into a XQX printer stream
+foo2zjs (1)          - Convert Ghostscript pbmraw or bitcmyk format into a ZJ...
+foo2zjs-icc2ps - (no manual entry)
+foo2zjs-pstops (1)   - Add PS code for foo2*-wrapper
+foo2zjs-wrapper (1)  - Convert Postscript into a ZJS printer stream
+foomatic-rip (1)     - Universal print filter/RIP wrapper
+for - (no manual entry)
+fprintd-delete (1)   - Fingerprint management daemon, and test applications
+fprintd-enroll (1)   - Fingerprint management daemon, and test applications
+fprintd-list (1)     - Fingerprint management daemon, and test applications
+fprintd-verify (1)   - Fingerprint management daemon, and test applications
+free (1)             - Display amount of free and used memory in the system
+fsck (8)             - check and repair a Linux filesystem
+fsck.cramfs (8)      - fsck compressed ROM file system
+fsck.ext2 (8)        - check a Linux ext2/ext3/ext4 file system
+fsck.ext3 (8)        - check a Linux ext2/ext3/ext4 file system
+fsck.ext4 (8)        - check a Linux ext2/ext3/ext4 file system
+fsck.fat (8)         - check and repair MS-DOS FAT filesystems
+fsck.minix (8)       - check consistency of Minix filesystem
+fsck.msdos (8)       - check and repair MS-DOS FAT filesystems
+fsck.vfat (8)        - check and repair MS-DOS FAT filesystems
+fsfreeze (8)         - suspend access to a filesystem (Ext3/4, ReiserFS, JFS,...
+fstab-decode (8)     - run a command with fstab-encoded arguments
+fstrim (8)           - discard unused blocks on a mounted filesystem
+ftp (1)              - Internet file transfer program
+funccount-bpfcc (8)  - Count function, tracepoint, and USDT probe calls match...
+funcinterval-bpfcc - Time interval between the same function, tracepoint ...
+funclatency-bpfcc - Time functions and print latency as a histogram.
+funcslower-bpfcc - Trace slow kernel or user function calls.
+function - (no manual entry)
+funzip (1)           - filter for extracting from a ZIP archive in a pipe
+fuser (1)            - identify processes using files or sockets
+fusermount (1)       - mount and unmount FUSE filesystems
+fusermount3 (1)      - mount and unmount FUSE filesystems
+fwupdmgr (1)         - (unknown subject)
+fwupdtool (1)        - (unknown subject)
