@@ -97,11 +97,3 @@ cat comandos_basicos.md
 ```bash
 bash ayuda_con_man.sh
 ```
-
----
-
-## 📌 Próximos pasos
-
-- Ampliar documentación con más comandos.  
-- Agregar ejemplos más complejos y casos prácticos.  
-- Incluir scripts para buscar y filtrar comandos según palabra clave.  
