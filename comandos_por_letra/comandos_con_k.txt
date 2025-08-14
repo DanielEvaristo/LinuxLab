@@ -1,0 +1,16 @@
+kbdinfo
+kbd_mode
+kbdrate
+kbxutil
+kernel-install
+kerneloops
+kerneloops-submit
+kill
+killall
+killall5
+killsnoop-bpfcc
+killsnoop.bt
+klockstat-bpfcc
+kmod
+kmodsign
+kvmexit-bpfcc

@@ -1,0 +1,102 @@
+ua (1)               - Manage Ubuntu Pro services from Canonical
+ubuntu-advantage (1) - Manage Ubuntu Pro services from Canonical
+ubuntu-bug (1)       - file a bug report using Apport, or update an existing report
+ubuntu-distro-info (1) - provides information about Ubuntu's distributions
+ubuntu-drivers - (sin entrada en el manual)
+ubuntu-report (3)    - Report metrics from your system, install and upgrades
+ubuntu-security-status - (sin entrada en el manual)
+ucalls (8)           - Summarize method calls from high-level languages and Linux syscalls.
+ucf (1)              - Update Configuration File: preserve user changes in configuration files
+ucfq (1)             - query the ucf database
+ucfr (1)             - Update Configuration File Registry: associate packages with configuration files
+uclampset (1)        - manipulate the utilization clamping attributes of the system or a process
+ucs2any (1)          - generate BDF fonts containing subsets of ISO 10646-1 codepoints
+u-d-c-print-pci-ids - (sin entrada en el manual)
+udevadm (8)          - udev management tool
+udisksctl (1)        - The udisks command line tool
+uflow (8)            - Print a flow graph of method calls in high-level languages.
+ufw (8)              - program for managing a netfilter firewall
+ugc (8)              - Trace garbage collection events in high-level languages.
+ul (1)               - do underlining
+unimplemented (2)    - unimplemented system calls
+umask (2)            - set file mode creation mask
+umax_pp - (sin entrada en el manual)
+umount (2)           - unmount filesystem
+umount.udisks2 (8)   - unmount file systems that have been mounted by UDisks2
+unalias - (sin entrada en el manual)
+uname (1)            - print system information
+unattended-upgrade (8) - automatic installation of security (and other) upgrades
+unattended-upgrades (8) - automatic installation of security (and other) upgrades
+uncompress (1)       - compress or expand files
+undump.bt (8)        - Catch UNIX domain socket packages. Uses bpftrace/eBPF.
+unexpand (1)         - convert spaces to tabs
+unicode_start (1)    - put keyboard and console in unicode mode
+unicode_stop (1)     - revert keyboard and console from unicode mode
+uniq (1)             - report or omit repeated lines
+unity-scope-loader - (sin entrada en el manual)
+unix_chkpwd (8)      - Helper binary that verifies the password of the current user
+unix_update (8)      - Helper binary that updates the password of a given user
+unlink (1)           - call the unlink function to remove the specified file
+unlzma (1)           - Compress or decompress .xz and .lzma files
+unmkinitramfs (8)    - extract content from an initramfs image
+unset - (sin entrada en el manual)
+unshare (1)          - run program in new namespaces
+unsquashfs (1)       - tool to uncompress, extract and list squashfs filesystems
+until - (sin entrada en el manual)
+unxz (1)             - Compress or decompress .xz and .lzma files
+unzip (1)            - list, test and extract compressed files in a ZIP archive
+unzipsfx (1)         - self-extracting stub for prepending to ZIP archives
+unzstd (1)           - zstd, zstdmt, unzstd, zstdcat - Compress or decompress .zst files
+uobjnew (8)          - Summarize object allocations in high-level languages.
+update-alternatives (1) - maintain symbolic links determining default commands
+update-ca-certificates (8) - update /etc/ssl/certs and ca-certificates.crt
+update-catalog (8)   - create or update entry in SGML catalog file
+update-cracklib (8)  - Regenerate cracklib dictionary
+update-default-aspell (8) - rebuild aspell database and emacsen stuff
+update-default-ispell (8) - update default ispell dictionary
+update-default-wordlist (8) - update default wordlist
+update-desktop-database (1) - Build cache database of MIME types handled by desktop files
+update-dictcommon-aspell (8) - rebuild aspell database and emacsen stuff
+update-dictcommon-hunspell (8) - rebuild hunspell database and emacsen stuff
+update-fonts-alias (8) - compile fonts.alias files
+update-fonts-dir (8) - compile fonts.dir files
+update-fonts-scale (8) - generate fonts.scale files
+update-grub (8)      - stub for grub-mkconfig
+update-grub2 (8)     - stub for grub-mkconfig
+update-gsfontmap - (sin entrada en el manual)
+update-icon-caches - (sin entrada en el manual)
+update-ieee-data (8) - update data files from IEEE Standards Association such as the OUI and IAB lists
+update-inetd (8)     - create, remove, enable or disable entry /etc/inetd.conf
+update-info-dir (8)  - update or create index file from all installed info files in directory
+update-initramfs (8) - generate an initramfs image
+update-locale (8)    - Modify global locale settings
+update-manager (8)   - graphical management of software packages updates
+update-mime-database (1) - a program to build the Shared MIME-Info database cache
+update-notifier - (sin entrada en el manual)
+update-passwd (8)    - safely update /etc/passwd, /etc/shadow and /etc/group
+update-pciids (8)    - download new version of the PCI ID list
+update-rc.d (8)      - install and remove System-V style init script links
+update-secureboot-policy - (sin entrada en el manual)
+update-shells (8)    - update the list of valid login shells
+update-xmlcatalog (8) - maintain XML catalog files
+UPower (7)           - System-wide Power Management
+uptime (1)           - Tell how long the system has been running.
+usb-devices (1)      - print USB device details
+usbhid-dump (8)      - dump USB HID device report descriptors and streams
+usbip (8)            - manage USB/IP devices
+usbipd (8)           - USB/IP server daemon
+usb_modeswitch (1)   - control the mode of 'multi-state' USB devices
+usb_modeswitch_dispatcher (1) - Linux wrapper for usb_modeswitch (not intended for direct invocation)
+usbmuxd (8)          - Expose a socket to multiplex connections from and to iOS devices.
+usb_printerid (1)    - prints the ID of the printer on a USB port
+usbreset (1)         - send a USB port reset to a USB device
+useradd (8)          - create a new user or update default new user information
+userdel (8)          - delete a user account and related files
+usermod (8)          - modify a user account
+users (1)            - print the user names of users currently logged in to the current host
+ustat (2)            - get filesystem statistics
+uthreads (8)         - Trace thread creation events in Java or pthreads.
+utmpdump (1)         - dump UTMP and WTMP files in raw format
+uuidd (8)            - UUID generation daemon
+uuidgen (1)          - create a new UUID value
+uuidparse (1)        - a utility to parse unique identifiers

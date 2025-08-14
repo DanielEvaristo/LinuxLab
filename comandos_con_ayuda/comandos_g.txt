@@ -1,0 +1,175 @@
+gamemoded (8)        - daemon that optimises system performance on demand
+gamemodelist (1)     - search for processes running with gamemode
+gamemoderun (1)      - invoke gamemode into any program
+gamemode-simulate-game (1) - simulate a game using gamemode
+gamma4scanimage (1)  - create a gamma table for scanimage
+gapplication (1)     - D-Bus application launcher
+gatttool (1)         - tool for Bluetooth Low Energy device
+gcalccmd (1)         - a console calculator
+gcore (1)            - Generate core files for running processes
+gcr-viewer - (sin entrada en el manual)
+gcr-viewer-gtk4 - (sin entrada en el manual)
+gdb (1)              - The GNU Debugger
+gdb-add-index (1)    - Add index files to speed up GDB
+gdbtui - (sin entrada en el manual)
+gdbus (1)            - Tool for working with D-Bus objects
+gdisk (8)            - Interactive GUID partition table (GPT) manipulator
+gdk-pixbuf-csource (1) - C code generation utility for GdkPixbuf images
+gdk-pixbuf-pixdata (1) - GDK Pixbuf library
+gdk-pixbuf-thumbnailer - (sin entrada en el manual)
+gdm3 (8)             - GNOME Display Manager
+gdm-config - (sin entrada en el manual)
+gdmflexiserver (1)   - start a GDM session using the GDM flexible server mechanism, or in Xnest
+gdm-screenshot (1)   - take a picture of the screen
+geckodriver - (sin entrada en el manual)
+gencat (1)           - Generate message catalog
+genl (8)             - generic netlink utility frontend
+geqn (1)             - format mathematics (equations) for groff or MathML
+getcap (8)           - examine file capabilities
+getconf (1)          - Query system configuration variables
+getent (1)           - get entries from Name Service Switch libraries
+getfacl (1)          - get file access control lists
+gethostlatency-bpfcc (8) - Show latency for getaddrinfo/gethostbyname[2] calls. Uses Linux eBPF/bcc.
+gethostlatency.bt (8) - Show latency for getaddrinfo/gethostbyname[2] calls. Uses bpftrace/eBPF.
+getkeycodes (8)      - print kernel scancode-to-keycode mapping table
+getopt (1)           - parse command options (enhanced)
+getopts - (sin entrada en el manual)
+getpcaps (8)         - display process capabilities
+gettext (1)          - translate message
+gettext.sh - (sin entrada en el manual)
+getty (8)            - alternative Linux getty
+getweb - (sin entrada en el manual)
+ghostscript (1)      - Ghostscript (PostScript and PDF language interpreter and previewer)
+ginstall-info (1)    - update info/dir entries
+gio (1)              - GIO commandline tool
+gio-querymodules (1) - GIO module cache creation
+gipddecode (1)       - Decode a GIPD stream into human readable form.
+Git (3pm)            - Perl interface to the Git version control system
+git-receive-pack (1) - Receive what is pushed into the repository
+git-shell (1)        - Restricted login shell for Git-only SSH access
+git-upload-archive (1) - Send archive back to git-archive
+git-upload-pack (1)  - Send objects packed back to git-fetch-pack
+gjs - (sin entrada en el manual)
+gjs-console - (sin entrada en el manual)
+gkbd-keyboard-display - (sin entrada en el manual)
+glib-compile-schemas (1) - GSettings schema compiler
+gnome-calculator (1) - a desktop calculator
+gnome-characters - (sin entrada en el manual)
+gnome-clocks - (sin entrada en el manual)
+gnome-control-center (1) - Configure GNOME settings
+gnome-disk-image-mounter (1) - Attach and mount disk images
+gnome-disks (1)      - the GNOME Disks application
+gnome-extensions (1) - Command line tool for managing GNOME extensions
+gnome-font-viewer - (sin entrada en el manual)
+gnome-help (1)       - browse system documentation
+gnome-keyring (1)    - The gnome-keyring commandline tool
+gnome-keyring-3 (1)  - The gnome-keyring commandline tool
+gnome-keyring-daemon (1) - The gnome-keyring daemon
+gnome-language-selector (1) - graphical language selection utility
+gnome-logs (1)       - log viewer for the systemd journal
+gnome-menus-blacklist - (sin entrada en el manual)
+gnome-power-statistics (1) - gnome power statistics gui
+gnome-session (1)    - Start the GNOME desktop environment
+gnome-session-inhibit (1) - inhibit gnome-session functionality
+gnome-session-properties (1) - Configure applications to start on login
+gnome-session-quit (1) - End the current GNOME session
+gnome-shell (1)      - Graphical shell for the GNOME desktop
+gnome-shell-extension-tool - (sin entrada en el manual)
+gnome-shell-test-tool - (sin entrada en el manual)
+gnome-system-monitor (1) - view and control processes
+gnome-terminal (1)   - A terminal emulator for GNOME
+gnome-terminal.real - (sin entrada en el manual)
+gnome-terminal.wrapper (1) - A terminal emulator for GNOME
+gnome-text-editor - (sin entrada en el manual)
+gnome-thumbnail-font - (sin entrada en el manual)
+gnome-www-browser - (sin entrada en el manual)
+gpasswd (1)          - administer /etc/group and /etc/gshadow
+gpg (1)              - OpenPGP encryption and signing tool
+gpg-agent (1)        - Secret key management for GnuPG
+gpgconf (1)          - Modify .gnupg home directories
+gpg-connect-agent (1) - Communicate with a running agent
+gpgparsemail (1)     - Parse a mail message into an annotated format
+gpgsm (1)            - CMS encryption and signing tool
+gpgsplit (1)         - Split an OpenPGP message into packets
+gpgtar (1)           - Encrypt or sign files into an archive
+gpgv (1)             - Verify OpenPGP signatures
+gpg-wks-client (1)   - Client for the Web Key Service
+gpic (1)             - compile pictures for troff or TeX
+gpu-manager - (sin entrada en el manual)
+grdctl (1)           - Command line tool for configuring GNOME Remote Desktop
+grep (1)             - print lines that match patterns
+gresource (1)        - GResource tool
+groff (1)            - front end to the GNU roff document formatting system
+grog (1)             - groff guess-infer the groff command a document requires
+grops (1)            - groff output driver for PostScript
+grotty (1)           - groff output driver for typewriter-like (terminal) devices
+groupadd (8)         - create a new group
+groupdel (8)         - delete a group
+groupmems (8)        - administer members of a user's primary group
+groupmod (8)         - modify a group definition on the system
+groups (1)           - print the groups a user is in
+growpart (1)         - extend a partition in a partition table to fill available space
+grpck (8)            - verify integrity of group files
+grpconv (8)          - convert to and from shadow passwords and groups
+grpunconv (8)        - convert to and from shadow passwords and groups
+grub-editenv (1)     - edit GRUB environment block
+grub-file (1)        - check file type
+grub-fstest (1)      - debug tool for GRUB filesystem drivers
+grub-glue-efi (1)    - generate a fat binary for EFI
+grub-install (8)     - install GRUB to a device
+grub-kbdcomp (1)     - generate a GRUB keyboard layout file
+grub-macbless (8)    - bless a mac file/directory
+grub-menulst2cfg (1) - transform legacy menu.lst into grub.cfg
+grub-mkconfig (8)    - generate a GRUB configuration file
+grub-mkdevicemap (8) - make a device map file automatically
+grub-mkfont (1)      - make GRUB font files
+grub-mkimage (1)     - make a bootable image of GRUB
+grub-mklayout (1)    - generate a GRUB keyboard layout file
+grub-mknetdir (1)    - prepare a GRUB netboot directory.
+grub-mkpasswd-pbkdf2 (1) - generate hashed password for GRUB
+grub-mkrelpath (1)   - make a system path relative to its root
+grub-mkrescue (1)    - make a GRUB rescue image
+grub-mkstandalone (1) - make a memdisk-based GRUB image
+grub-mount (1)       - export GRUB filesystem with FUSE
+grub-probe (8)       - probe device information for GRUB
+grub-reboot (8)      - set the default boot entry for GRUB, for the next boot only
+grub-render-label (1) - generate a .disk_label for Apple Macs.
+grub-script-check (1) - check grub.cfg for syntax errors
+grub-set-default (8) - set the saved default boot entry for GRUB
+grub-syslinux2cfg (1) - transform syslinux config into grub.cfg
+gs (1)               - Ghostscript (PostScript and PDF language interpreter and previewer)
+gsbj (1)             - Format and print text for BubbleJet printer using ghostscript
+gsdj (1)             - Format and print text for DeskJet printer using ghostscript
+gsdj500 (1)          - Format and print text for DeskJet 500 BubbleJet using ghostscript
+gsettings (1)        - GSettings configuration tool
+gslj (1)             - Format and print text for LaserJet printer using ghostscript
+gslp (1)             - Format and print text using ghostscript
+gsnd (1)             - Run ghostscript (PostScript and PDF engine) without display
+gst-device-monitor-1.0 (1) - Simple command line testing tool for GStreamer device monitors
+gst-discoverer-1.0 (1) - Display file metadata and stream information
+gst-inspect-1.0 (1)  - print info about a GStreamer plugin or element
+gst-launch-1.0 (1)   - build and run a GStreamer pipeline
+gst-play-1.0 (1)     - Simple command line playback testing tool
+gstreamer-codec-install - (sin entrada en el manual)
+gst-stats-1.0 (1)    - print info gathered from a GStreamer log file
+gst-tester-1.0 - (sin entrada en el manual)
+gst-typefind-1.0 (1) - print Media type of file
+gtbl (1)             - prepare tables for groff documents
+gted - (sin entrada en el manual)
+gtf (1)              - calculate VESA GTF mode lines
+gtk4-broadwayd (1)   - The Broadway display server
+gtk4-builder-tool (1) - GtkBuilder File Utility
+gtk4-encode-symbolic-svg (1) - Symbolic icon conversion utility
+gtk4-launch (1)      - Launch an application
+gtk4-path-tool (1)   - GskPath Utility
+gtk4-query-settings (1) - Print name and value of GTK settings
+gtk4-rendernode-tool (1) - GskRenderNode Utility
+gtk4-update-icon-cache (1) - Icon theme caching utility
+gtk-builder-tool (1) - GtkBuilder file utility
+gtk-encode-symbolic-svg (1) - Symbolic icon conversion utility
+gtk-launch (1)       - Launch an application
+gtk-query-settings (1) - Utility to print name and value of all GtkSettings properties
+gtk-update-icon-cache (1) - Icon theme caching utility
+gunzip (1)           - compress or expand files
+gzexe (1)            - compress executable files in place
+gzip (1)             - compress or expand files

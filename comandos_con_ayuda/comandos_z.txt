@@ -1,0 +1,29 @@
+zcat (1)             - compress or expand files
+zcmp (1)             - compare compressed files
+zdiff (1)            - compare compressed files
+zdump (8)            - timezone dumper
+zegrep (1)           - search possibly compressed files for a regular expression
+zenity (1)           - manual page for zenity 4.0.1
+zfgrep (1)           - search possibly compressed files for a regular expression
+zforce (1)           - force a '.gz' extension on all gzip files
+zfsdist-bpfcc (8)    - Summarize ZFS operation latency. Uses Linux eBPF/bcc.
+zfsslower-bpfcc (8)  - Trace slow zfs file operations, with per-event details.
+zgrep (1)            - search possibly compressed files for a regular expression
+zic (8)              - timezone compiler
+zip (1)              - package and compress (archive) files
+zipcloak (1)         - encrypt entries in a zipfile
+zipdetails (1)       - display the internal structure of zip files
+zipgrep (1)          - search files in a ZIP archive for lines matching a pattern
+zipinfo (1)          - list detailed information about a ZIP archive
+zipnote (1)          - write the comments in zipfile to stdout, edit comments and rename files in zipfile
+zipsplit (1)         - split a zipfile into smaller zipfiles
+zjsdecode (1)        - Decode a ZjStream into human readable form.
+zless (1)            - file perusal filter for crt viewing of compressed text
+zmore (1)            - file perusal filter for crt viewing of compressed text
+znew (1)             - recompress .Z files to .gz files
+zramctl (8)          - set up and control zram devices
+zstd (1)             - zstd, zstdmt, unzstd, zstdcat - Compress or decompress .zst files
+zstdcat (1)          - zstd, zstdmt, unzstd, zstdcat - Compress or decompress .zst files
+zstdgrep (1)         - print lines matching a pattern in zstandard-compressed files
+zstdless (1)         - view zstandard-compressed files
+zstdmt (1)           - zstd, zstdmt, unzstd, zstdcat - Compress or decompress .zst files

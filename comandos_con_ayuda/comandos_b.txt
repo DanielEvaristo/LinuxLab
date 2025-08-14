@@ -1,0 +1,70 @@
+b2sum (1)            - compute and check BLAKE2 message digest
+badblocks (8)        - search a device for bad blocks
+baobab (1)           - A graphical disk usage analyzer for the GNOME desktop
+base32 (1)           - base32 encode/decode data and print to standard output
+base64 (1)           - base64 encode/decode data and print to standard output
+basename (1)         - strip directory and suffix from filenames
+basenc (1)           - Encode/decode data and print to standard output
+bash (1)             - GNU Bourne-Again SHell
+bashbug (1)          - report a bug in bash
+bashreadline-bpfcc (8) - Print entered bash commands system wide. Uses Linux eBPF/bcc.
+bashreadline.bt (8)  - Print bash commands system wide. Uses bpftrace/eBPF.
+bc (1)               - An arbitrary precision calculator language
+bdftopcf (1)         - convert X font from Bitmap Distribution Format to Portable Compiled Format
+bdftruncate (1)      - generate truncated BDF font from ISO 10646-1-encoded BDF font
+bg - (sin entrada en el manual)
+bind (2)             - bind a name to a socket
+bindsnoop-bpfcc (8)  - Trace bind() system calls.
+biolatency-bpfcc (8) - Summarize block device I/O latency as a histogram.
+biolatency.bt (8)    - Block I/O latency as a histogram. Uses bpftrace/eBPF.
+biolatency-kp.bt - (sin entrada en el manual)
+biolatpcts-bpfcc (8) - Monitor IO latency distribution of a block device.
+biopattern-bpfcc (8) - Identify random/sequential disk access patterns.
+biosdecode (8)       - BIOS information decoder
+biosnoop-bpfcc (8)   - Trace block device I/O and print details incl. issuing PID.
+biosnoop.bt (8)      - Block I/O tracing tool, showing per I/O latency. Uses bpftrace/eBPF.
+biostacks.bt (8)     - Show disk I/O latency with initialization stacks. Uses bpftrace/eBPF.
+biotop-bpfcc (8)     - Block device (disk) I/O by process top.
+bitesize-bpfcc (8)   - Summarize block device I/O size as a histogram - Linux eBPF/bcc.
+bitesize.bt (8)      - Show disk I/O size as a histogram. Uses bpftrace/eBPF.
+bitmap (1)           - bitmap editor and converter utilities for the X Window System
+blkdeactivate (8)    - utility to deactivate block devices
+blkdiscard (8)       - discard sectors on a device
+blkid (8)            - locate/print block device attributes
+blkzone (8)          - run zone command on a device
+blockdev (8)         - call block device ioctls from the command line
+bluemoon (1)         - Bluemoon configuration utility
+bluetoothctl (1)     - interactive bluetooth control tool
+bluetoothd (8)       - Bluetooth daemon
+bluetooth-sendto (1) - GTK application for transferring files over Bluetooth
+bmtoa (1)            - bitmap editor and converter utilities for the X Window System
+boltctl (1)          - control the thunderbolt device manager
+bpflist-bpfcc (8)    - Display processes currently using BPF programs and maps.
+bpftool (8)          - tool for inspection and simple manipulation of eBPF programs and maps
+bpftrace (8)         - a high-level tracing language
+bpftrace-aotrt - (sin entrada en el manual)
+break (2)            - unimplemented system calls
+bridge (8)           - show / manipulate bridge addresses and devices
+brltty (1)           - refreshable braille display driver for Linux/Unix
+brltty-atb - (sin entrada en el manual)
+brltty-clip - (sin entrada en el manual)
+brltty-ctb - (sin entrada en el manual)
+brltty-hid - (sin entrada en el manual)
+brltty-ktb - (sin entrada en el manual)
+brltty-lscmds - (sin entrada en el manual)
+brltty-morse - (sin entrada en el manual)
+brltty-setup - (sin entrada en el manual)
+brltty-trtxt - (sin entrada en el manual)
+brltty-ttb - (sin entrada en el manual)
+brltty-tune - (sin entrada en el manual)
+broadwayd (1)        - Broadway display server
+browse - (sin entrada en el manual)
+btattach (1)         - Attach serial devices to BlueZ stack
+btmgmt (1)           - A command-line interface of BlueZ for management Usage:
+btmon (1)            - Bluetooth monitor
+btrfsdist-bpfcc (8)  - Summarize btrfs operation latency. Uses Linux eBPF/bcc.
+btrfsslower-bpfcc (8) - Trace slow btrfs file operations, with per-event details.
+builtin - (sin entrada en el manual)
+busctl (1)           - Introspect the bus
+busybox - (sin entrada en el manual)
+bwrap (1)            - container setup utility

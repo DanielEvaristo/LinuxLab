@@ -1,0 +1,22 @@
+validlocale (8)      - Test if a given locale is available
+varlinkctl (1)       - Introspect with and invoke Varlink services
+vcs-run - (sin entrada en el manual)
+vcstime (8)          - Show time in upper right hand corner of the console screen
+vdir (1)             - list directory contents
+vdpa (8)             - vdpa management tool
+vfscount-bpfcc (8)   - Count VFS calls ("vfs_*"). Uses Linux eBPF/bcc.
+vfscount.bt (8)      - Count VFS calls ("vfs_*"). Uses bpftrace/eBPF.
+vfsstat-bpfcc (8)    - Statistics for some common VFS calls. Uses Linux eBPF/bcc.
+vfsstat.bt (8)       - Count key VFS calls. Uses bpftrace/eBPF.
+vi (1)               - Vi IMproved, a programmer's text editor
+view (1)             - Vi IMproved, a programmer's text editor
+viewres (1)          - graphical class browser for Xt
+vigr (8)             - edit the password, group, shadow-password or shadow-group file
+vim.tiny - (sin entrada en el manual)
+vipw (8)             - edit the password, group, shadow-password or shadow-group file
+virtiostat-bpfcc (8) - Trace VIRTIO devices input/output statistics. Uses Linux eBPF/bcc.
+visudo (8)           - edit the sudoers file
+vmstat (8)           - Report virtual memory statistics
+vmwarectrl - (sin entrada en el manual)
+vpddecode (8)        - VPD structure decoder
+vstp (1)             - VisioBraille file transferring

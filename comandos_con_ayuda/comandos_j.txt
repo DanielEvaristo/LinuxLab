@@ -1,0 +1,17 @@
+javacalls-bpfcc (8)  - Summarize method calls from high-level languages and Linux syscalls.
+javaflow-bpfcc (8)   - Print a flow graph of method calls in high-level languages.
+javagc-bpfcc (8)     - Trace garbage collection events in high-level languages.
+javaobjnew-bpfcc (8) - Summarize object allocations in high-level languages.
+javastat-bpfcc (8)   - Activity stats from high-level languages.
+javathreads-bpfcc (8) - Trace thread creation events in Java or pthreads.
+jobs - (sin entrada en el manual)
+join (1)             - join lines of two files on a common field
+journalctl (1)       - Print log entries from the systemd journal
+jpgicc (1)           - little cms ICC profile applier for JPEG.
+jq (1)               - Command-line JSON processor
+jsondiff - (sin entrada en el manual)
+jsonpatch - (sin entrada en el manual)
+json-patch-jsondiff - (sin entrada en el manual)
+jsonpointer - (sin entrada en el manual)
+json_pp (1)          - JSON::PP command utility
+jsonschema - (sin entrada en el manual)

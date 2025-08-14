@@ -1,0 +1,194 @@
+sadf (1)             - Display data collected by sar in multiple formats.
+saned (8)            - SANE network daemon
+sane-find-scanner (1) - find SCSI and USB scanners and their device files
+sar (1)              - Collect, report, or save system activity information.
+sar.sysstat (1)      - Collect, report, or save system activity information.
+savelog (8)          - save a log file
+sbattach (1)         - UEFI secure boot detached signature tool
+sbkeysync (1)        - UEFI secure boot key synchronization tool
+sbsiglist (1)        - Create EFI_SIGNATURE_LIST signature databases
+sbsign (1)           - UEFI secure boot signing tool
+sbvarsign (1)        - UEFI authenticated variable signing tool
+sbverify (1)         - UEFI secure boot verification tool
+scalar (1)           - A tool for managing large Git repositories
+scanimage (1)        - scan an image
+scp (1)              - OpenSSH secure file copy
+scp-dbus-service - (sin entrada en el manual)
+screendump (1)       - dump the contents of a virtual console to stdout
+script (1)           - make typescript of terminal session
+scriptlive (1)       - re-run session typescripts, using timing information
+scriptreplay (1)     - play back typescripts, using timing information
+sdiff (1)            - side-by-side merge of file differences
+sdptool (1)          - control and interrogate SDP servers
+seahorse (1)         - Passwords and Keys
+sed (1)              - stream editor for filtering and transforming text
+select (2)           - synchronous I/O multiplexing
+select-default-ispell (8) - select default ispell dictionary
+select-default-iwrap (1) - Selects the user default ispell dictionary for use with ispell-wrapper
+select-default-wordlist (8) - select default wordlist
+select-editor (1)    - select your default sensible-editor from all installed editors
+sensible-browser (1) - sensible web browsing
+sensible-editor (1)  - launch sensibly chosen text editor
+sensible-pager (1)   - sensible paging
+sensible-terminal (1) - sensible terminal emulator
+seq (1)              - print a sequence of numbers
+service (8)          - run a System V init script
+session-migration (1) - Migrate in user session settings.
+sessreg (1)          - manage utmpx/wtmpx entries for non-init clients
+set - (sin entrada en el manual)
+setarch (8)          - change reported architecture in new program environment and/or set personality flags
+setcap (8)           - set file capabilities
+setfacl (1)          - set file access control lists
+setfont (8)          - load EGA/VGA console screen font
+setkeycodes (8)      - load kernel scancode-to-keycode mapping table entries
+setleds (1)          - set the keyboard leds
+setlogcons (8)       - Send kernel messages to console N
+setmetamode (1)      - define the keyboard meta key handling
+setpci (8)           - configure PCI devices
+setpriv (1)          - run a program with different Linux privilege settings
+setsid (1)           - run a program in a new session
+setterm (1)          - set terminal attributes
+setuids.bt (8)       - Trace setuid family of syscalls. Uses bpftrace/eBPF.
+setupcon (1)         - sets up the font and the keyboard on the console
+setvesablank (8)     - Turn VESA screen blanking on or off
+setvtrgb (1)         - customize the console color map
+setxkbmap (1)        - set the keyboard using the X Keyboard Extension
+sfdisk (8)           - display or manipulate a disk partition table
+sftp (1)             - OpenSSH secure file transfer
+sg (1)               - execute command as different group ID
+sgdisk (8)           - Command-line GUID partition table (GPT) manipulator for Linux and Unix
+sh (1)               - command interpreter (shell)
+sha1sum (1)          - compute and check SHA1 message digest
+sha224sum (1)        - compute and check SHA224 message digest
+sha256sum (1)        - compute and check SHA256 message digest
+sha384sum (1)        - compute and check SHA384 message digest
+sha512sum (1)        - compute and check SHA512 message digest
+shadowconfig - (sin entrada en el manual)
+shasum (1)           - Print or Check SHA Checksums
+shift - (sin entrada en el manual)
+shmsnoop-bpfcc (8)   - Trace System V shared memory syscalls. Uses Linux eBPF/bcc.
+shopt - (sin entrada en el manual)
+showconsolefont (8)  - Show the current EGA/VGA console screen font
+showkey (1)          - examine the codes sent by the keyboard
+showrgb (1)          - display an rgb color-name database
+shred (1)            - overwrite a file to hide its contents, and optionally delete it
+shuf (1)             - generate random permutations
+shutdown (2)         - shut down part of a full-duplex connection
+skill (1)            - send a signal or report process status
+slabratetop-bpfcc (8) - Kernel SLAB/SLUB memory cache allocation rate top. Uses Linux BPF/bcc.
+slabtop (1)          - display kernel slab cache information in real time
+sleep (1)            - delay for a specified amount of time
+slogin (1)           - OpenSSH remote login client
+slxdecode (1)        - Decode a SLX stream into human readable form.
+smproxy (1)          - Session Manager Proxy
+snap (8)             - Tool to interact with snaps
+snapctl - (sin entrada en el manual)
+snapfuse - (sin entrada en el manual)
+snap-store - (sin entrada en el manual)
+snap-store.show-updates - (sin entrada en el manual)
+snice (1)            - send a signal or report process status
+soelim (1)           - recursively interpolate source requests in roff or other text files
+sofdsnoop-bpfcc (8)  - traces FDs passed by sockets
+softirqs-bpfcc (8)   - Measure soft IRQ (soft interrupt) event time. Uses Linux eBPF/bcc.
+software-properties-gtk (1) - Software Sources List editor
+solisten-bpfcc (8)   - Trace listening socket
+sort (1)             - sort lines of text files
+sotruss (1)          - trace shared library calls through PLT
+source - (sin entrada en el manual)
+spa-acp-tool (1)     - The PipeWire ALSA profile debugging utility
+spa-inspect (1)      - The PipeWire SPA plugin information utility
+spa-json-dump (1)    - SPA JSON to JSON converter
+spa-monitor (1)      - The PipeWire SPA device debugging utility
+spa-resample (1)     - The PipeWire resampler debugging utility
+spd-conf (1)         - configure Speech Dispatcher and diagnose problems
+spd-say (1)          - send text-to-speech output request to speech-dispatcher
+spdsend - (sin entrada en el manual)
+speaker-test (1)     - command-line speaker test tone generator for ALSA
+speech-dispatcher (1) - speech synthesis daemon
+spice-vdagent (1)    - Spice guest agent X11 session agent
+spice-vdagentd (1)   - Spice guest agent daemon
+splain (1)           - produce verbose warning diagnostics
+split (1)            - split a file into pieces
+splitfont (1)        - extract characters from an ISO-type font.
+sprof (1)            - read and display shared object profiling data
+sqfscat (1)          - tool to cat files from a squashfs filesystem to stdout
+sqfstar (1)          - tool to create a squashfs filesystem from a tar archive
+ss (8)               - another utility to investigate sockets
+ssh (1)              - OpenSSH remote login client
+ssh-add (1)          - adds private key identities to the OpenSSH authentication agent
+ssh-agent (1)        - OpenSSH authentication agent
+ssh-argv0 (1)        - replaces the old ssh command-name as hostname handling
+ssh-copy-id (1)      - use locally available keys to authorise logins on a remote machine
+ssh-keygen (1)       - OpenSSH authentication key utility
+ssh-keyscan (1)      - gather SSH public keys from servers
+ssllatency.bt (8)    - Show SSL/TLS handshake latency histogram. Uses bpftrace/eBPF.
+sslsniff-bpfcc (8)   - Print data passed to OpenSSL, GnuTLS or NSS. Uses Linux eBPF/bcc.
+sslsnoop.bt (8)      - Show SSL/TLS handshake events. Uses bpftrace/eBPF.
+sssd (8)             - System Security Services Daemon
+sss_ssh_authorizedkeys (1) - get OpenSSH authorized keys
+sss_ssh_knownhostsproxy (1) - get OpenSSH host keys
+stackcount-bpfcc (8) - Count function calls and their stack traces. Uses Linux eBPF/bcc.
+start-stop-daemon (8) - start and stop system daemon programs
+startx (1)           - initialize an X session
+stat (1)             - display file or file system status
+static-sh - (sin entrada en el manual)
+statsnoop-bpfcc (8)  - Trace stat() syscalls. Uses Linux eBPF/bcc.
+statsnoop.bt (8)     - Trace stat() syscalls. Uses bpftrace/eBPF.
+stdbuf (1)           - Run COMMAND, with modified buffering operations for its standard streams.
+strace (1)           - trace system calls and signals
+strace-log-merge (1) - merge strace -ff -tt output
+streamzip (1)        - create a zip file from stdin
+stty (1)             - change and print terminal line settings
+su (1)               - run a command with substitute user and group ID
+sudo (8)             - execute a command as another user
+sudoedit (8)         - execute a command as another user
+sudo_logsrvd (8)     - sudo event and I/O log server
+sudoreplay (8)       - replay sudo session logs
+sudo_sendlog (8)     - send sudo I/O log to log server
+sulogin (8)          - single-user login
+sum (1)              - checksum and count the blocks in a file
+suspend - (sin entrada en el manual)
+swapin.bt (8)        - Count swapins by process. Uses bpftrace/eBPF.
+swaplabel (8)        - print or change the label or UUID of a swap area
+swapoff (2)          - start/stop swapping to file/device
+swapon (2)           - start/stop swapping to file/device
+switcherooctl - (sin entrada en el manual)
+switch_root (8)      - switch to another filesystem as the root of the mount tree
+sync (1)             - Synchronize cached writes to persistent storage
+syncsnoop-bpfcc (8)  - Trace sync() syscall. Uses Linux eBPF/bcc.
+syncsnoop.bt (8)     - Trace the sync() variety of syscalls. Uses bpftrace/eBPF.
+syscount-bpfcc (8)   - Summarize syscall counts and latencies.
+syscount.bt (8)      - Count system calls. Uses bpftrace/eBPF.
+sysctl (2)           - read/write system parameters
+systemctl (1)        - Control the systemd system and service manager
+systemd (1)          - systemd system and service manager
+systemd-ac-power (1) - Report whether we are connected to an external power source
+systemd-analyze (1)  - Analyze and debug system manager
+systemd-ask-password (1) - Query the user for a system password
+systemd-cat (1)      - Connect a pipeline or program's output with the journal
+systemd-cgls (1)     - Recursively show control group contents
+systemd-cgtop (1)    - Show top control groups by their resource usage
+systemd-confext (8)  - Activates System Extension Images
+systemd-creds (1)    - Lists, shows, encrypts and decrypts service credentials
+systemd-cryptenroll (1) - Enroll PKCS#11, FIDO2, TPM2 token/devices to LUKS2 encrypted volumes
+systemd-cryptsetup (8) - Full disk decryption logic
+systemd-delta (1)    - Find overridden configuration files
+systemd-detect-virt (1) - Detect execution in a virtualized environment
+systemd-escape (1)   - Escape strings for usage in systemd unit names
+systemd-firstboot (1) - Initialize basic system settings on or before the first boot-up of a system
+systemd-hwdb (8)     - hardware database management tool
+systemd-id128 (1)    - Generate and print sd-128 identifiers
+systemd-inhibit (1)  - Execute a program with an inhibition lock taken
+systemd-machine-id-setup (1) - Initialize the machine ID in /etc/machine-id
+systemd-mount (1)    - Establish and destroy transient mount or auto-mount points
+systemd-notify (1)   - Notify service manager about start-up completion and other daemon status changes
+systemd-path (1)     - List and query system and user paths
+systemd-repart (8)   - Automatically grow and add partitions
+systemd-run (1)      - Run programs in transient scope units, service units, or path-, socket-, or timer-triggered service units
+systemd-socket-activate (1) - Test socket activation of daemons
+systemd-stdio-bridge (1) - D-Bus proxy
+systemd-sysext (8)   - Activates System Extension Images
+systemd-sysusers (8) - Allocate system users and groups
+systemd-tmpfiles (8) - Creates, deletes and cleans up volatile and temporary files and directories
+systemd-tty-ask-password-agent (1) - List or process pending systemd password requests
+systemd-umount (1)   - Establish and destroy transient mount or auto-mount points

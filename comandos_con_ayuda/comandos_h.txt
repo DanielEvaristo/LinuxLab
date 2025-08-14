@@ -1,0 +1,45 @@
+h2ph (1)             - convert .h C header files to .ph Perl header files
+h2xs (1)             - convert .h C header files to Perl extensions
+halt (8)             - Power off, reboot, or halt the machine
+hardirqs-bpfcc (8)   - Measure hard IRQ (hard interrupt) event time. Uses Linux eBPF/bcc.
+hardlink (1)         - link multiple copies of a file
+hash (3)             - hash database access method
+hbpldecode (1)       - Decode a HBPL stream into human readable form.
+hciattach (1)        - attach serial devices via UART HCI to BlueZ stack
+hciconfig (1)        - Configure Bluetooth devices
+hcitool (1)          - Configure Bluetooth connections
+hd (1)               - display file contents in hexadecimal, decimal, octal, or ascii
+hdparm (8)           - get/set SATA/IDE device parameters
+HEAD (1p)            - Simple command line user agent
+heif-thumbnailer (1) - create thumbnails from HEIC/HEIF files
+help - (sin entrada en el manual)
+helpztags (1)        - generate the help tags file for directory
+hex2hcd (1)          - Broadcom Bluetooth firmware converter
+hexdump (1)          - display file contents in hexadecimal, decimal, octal, or ascii
+hipercdecode (1)     - Decode a HIPERC stream into human readable form.
+history (3readline)  - GNU History Library
+host (1)             - DNS lookup utility
+hostid (1)           - print the numeric identifier for the current host
+hostname (1)         - show or set the system's host name
+hostnamectl (1)      - Control the system hostname
+hp-align (1)         - Printer Cartridge Alignment Utility
+hp-check (1)         - Dependency/Version Check Utility
+hp-clean (1)         - Printer Printhead Cleaning Utility
+hp-colorcal (1)      - Printer Cartridge Color Calibration Utility
+hp-config_usb_printer (1) - HP device config using USB
+hp-doctor (1)        - Self Diagnse Utility and Healing Utility
+hp-firmware (1)      - Firmware Download Utility
+hp-info (1)          - Device Information Utility
+hp-levels (1)        - Supply Levels Utility
+hp-logcapture (1)    - HPLIP logs capture Utility
+hp-makeuri (1)       - Device URI Creation Utility
+hp-pkservice (1)     - Policy Kit Service
+hp-plugin (1)        - Plugin Download and Install Utility
+hp-plugin-ubuntu - (sin entrada en el manual)
+hp-probe (1)         - Printer Discovery Utility
+hp-query (1)         - Model Query Utility
+hp-scan (1)          - Scan Utility
+hp-setup (1)         - Printer/Fax Setup Utility
+hp-testpage (1)      - Testpage Print Utility
+hp-timedate (1)      - Time/Date Utility
+hwe-support-status - (sin entrada en el manual)

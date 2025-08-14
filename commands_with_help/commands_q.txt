@@ -1,5 +1,0 @@
-qmi-firmware-update - Update firmware in QMI devices
-qmi-network (1)      - Simple network management of QMI devices
-qmicli (1)           - Control QMI devices
-qpdldecode (1)       - Decode a QPDL stream into human readable form.
-quirks-handler - (no manual entry)

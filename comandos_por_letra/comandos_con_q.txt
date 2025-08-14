@@ -1,0 +1,5 @@
+qmicli
+qmi-firmware-update
+qmi-network
+qpdldecode
+quirks-handler

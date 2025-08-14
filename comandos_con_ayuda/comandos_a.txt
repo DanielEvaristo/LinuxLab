@@ -1,0 +1,79 @@
+aa-enabled (1)       - test whether AppArmor is enabled
+aa-exec (1)          - confine a program with the specified AppArmor profile
+aa-features-abi (1)  - Extract, validate and manipulate AppArmor feature abis
+aa-load - (sin entrada en el manual)
+aa-remove-unknown (8) - remove unknown AppArmor profiles
+aa-status (8)        - display various information about the current AppArmor policy.
+aa-teardown (8)      - unload all AppArmor profiles
+accessdb (8)         - dumps the content of a man-db database in a human readable format
+aconnect (1)         - ALSA sequencer connection manager
+acpidbg - (sin entrada en el manual)
+add-apt-repository (1) - Adds a repository into the /etc/apt/sources.list or /etc/apt/sources.list.d or removes an existing one
+addgnupghome (8)     - Create .gnupg home directories
+addgroup (8)         - add or manipulate users or groups
+addpart (8)          - tell the kernel about the existence of a partition
+add-shell (8)        - add shells to the list of valid login shells
+adduser (8)          - add or manipulate users or groups
+agetty (8)           - alternative Linux getty
+airscan-discover (1) - Discover sane-airscan compatible scanners
+alias - (sin entrada en el manual)
+alsa - (sin entrada en el manual)
+alsabat (1)          - command-line sound tester for ALSA sound card driver
+alsabat-test - (sin entrada en el manual)
+alsactl (1)          - advanced controls for ALSA soundcard driver
+alsa-info (8)        - command-line utility to gather information about the ALSA subsystem
+alsaloop (1)         - command-line PCM loopback
+alsamixer (1)        - soundcard mixer for ALSA soundcard driver, with ncurses interface
+alsatplg (1)         - ALSA Topology Compiler
+alsaucm (1)          - ALSA Use Case Manager
+amidi (1)            - read from and write to ALSA RawMIDI ports
+amixer (1)           - command-line mixer for ALSA soundcard driver
+anacron (8)          - runs commands periodically
+apg (1)              - generates several random passwords
+apgbfm (1)           - APG Bloom filter management program
+aplay (1)            - command-line sound recorder and player for ALSA soundcard driver
+aplaymidi (1)        - play Standard MIDI Files
+apparmor_parser (8)  - loads AppArmor profiles into the kernel
+apparmor_status (8)  - display various information about the current AppArmor policy.
+applygnupgdefaults (8) - Run gpgconf --apply-defaults for all users.
+apport-bug (1)       - file a bug report using Apport, or update an existing report
+apport-cli (1)       - Apport user interfaces for reporting problems
+apport-collect (1)   - file a bug report using Apport, or update an existing report
+apport-unpack (1)    - extract the fields of a problem report to separate files
+appres (1)           - list X application resource database
+appstreamcli (1)     - Handle AppStream metadata formats and query AppStream data
+apropos (1)          - search the manual page names and descriptions
+apt (8)              - command-line interface
+apt-add-repository (1) - Adds a repository into the /etc/apt/sources.list or /etc/apt/sources.list.d or removes an existing one
+apt-cache (8)        - query the APT cache
+apt-cdrom (8)        - APT CD-ROM management utility
+apt-config (8)       - APT Configuration Query program
+aptd (1)             - package managing daemon proving a D-Bus interface
+aptdcon (1)          - command line client for aptdaemon
+apt-extracttemplates (1) - Utility to extract debconf config and templates from Debian packages
+apt-ftparchive (1)   - Utility to generate index files
+apt-get (8)          - APT package handling utility -- command-line interface
+apt-key (8)          - Deprecated APT key management utility
+apt-mark (8)         - show, set and unset various settings for a package
+apt-sortpkgs (1)     - Utility to sort package index files
+arch (1)             - print machine hardware name (same as uname -m)
+arecord (1)          - command-line sound recorder and player for ALSA soundcard driver
+arecordmidi (1)      - record Standard MIDI Files
+argdist-bpfcc (8)    - Trace a function and display a histogram or frequency count of its parameter values. Uses Linux eBPF/bcc.
+arm2hpdl (1)         - Add HP download header/trailer to an ARM ELF binary.
+arpd (8)             - userspace arp daemon.
+arptables-nft (8)    - ARP table administration (nft-based)
+arptables-nft (8)    - ARP table administration (nft-based)
+arptables-nft-restore (8) - Restore ARP Tables (nft-based)
+arptables-nft-save (8) - dump arptables rules to stdout (nft-based)
+arptables-nft-restore (8) - Restore ARP Tables (nft-based)
+arptables-nft-save (8) - dump arptables rules to stdout (nft-based)
+aseqdump (1)         - show the events received at an ALSA sequencer port
+aseqnet (1)          - ALSA sequencer connectors over network
+aspell (1)           - interactive spell checker
+aspell-autobuildhash (8) - Autobuilding aspell hash files for some dicts
+aspell-import (1)    - import old personal dictionaries into GNU Aspell
+atobm (1)            - bitmap editor and converter utilities for the X Window System
+avahi-daemon (8)     - The Avahi mDNS/DNS-SD daemon
+awk (1)              - pattern scanning and text processing language
+axfer (1)            - command-line sound recorder and player for sound devices and nodes supported by Linux sound subsystem (Advanced Linux Sound Architecture, also known as ALSA).
