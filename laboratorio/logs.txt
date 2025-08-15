@@ -1,0 +1,5 @@
+2025-08-01 10:00:00 INFO  arranque del sistema
+2025-08-01 10:01:00 WARN  uso alto de CPU
+2025-08-01 10:02:00 ALERTA fallo de conexión
+2025-08-01 10:03:00 INFO  petición completada
+2025-08-01 10:04:00 ALERTA timeout
