@@ -173,7 +173,7 @@ grep -Eo '(INFO|WARN|ERROR)' logs.txt | sort | uniq -c | sort -nr
 
 ---
 
-## 10) Referencia rápida (recorta y pega)
+## 10) Referencia rápida
 ```bash
 # Básico
 grep -in 'patrón' archivo
