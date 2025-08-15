@@ -1,4 +1,4 @@
-# Guía práctica de **grep** (GNU grep)
+# Guía práctica de **grep**
 
 > Aprende a buscar texto de forma efectiva con ejemplos y ejercicios guiados.
 
@@ -19,7 +19,7 @@ comando | grep [opciones] 'patrón'
 
 ---
 
-## 3) Opciones más usadas (chuleta)
+## 3) Opciones más usadas
 | Opción | Qué hace |
 |-------:|:---------|
 | `-i` | Ignora mayúsculas/minúsculas (case-insensitive). |
@@ -46,8 +46,6 @@ comando | grep [opciones] 'patrón'
 - **Anclas**: `'^Inicio'` (empieza la línea), `'fin$'` (termina la línea)
 - **Clases**: `'[0-9]+'`, `'[A-Za-z_]+'`, `'[[:digit:]]'`, `'[[:alpha:]]'`
 - **Cuantificadores**: `a{3}`, `a{2,5}`, `ab*` (0+), `ab+` (1+), `ab?` (0 o 1)
-- **Palabra completa**: `-w 'error'` (similar a `\berror\b`; `\b` requiere `-P`)
-- **PCRE (avanzado)**: `-P` activa regex estilo Perl (no siempre disponible en todas las distros).
 
 > Con **`-E`** puedes usar `|`, `+`, `?` sin escapes. Sin `-E`, debes escapar (`\|`, `\+`, `\?`).
 
@@ -105,7 +103,7 @@ grep -R --exclude='*.gz' --exclude-dir='.git' -n 'TODO' .
 grep -Rl 'SECRET_KEY' .
 ```
 
-### 5.8 Patrón literal (rápido, sin regex)
+### 5.8 Patrón literal
 ```bash
 grep -F 'a+b?c' archivo.txt   # trata + ? como texto normal
 ```
@@ -138,7 +136,6 @@ grep -Eo '(INFO|WARN|ERROR)' logs.txt | sort | uniq -c | sort -nr
 ---
 
 ## 8) Mini‑ejercicios (hazlos en tu terminal)
-> No te doy la respuesta: revisa tu salida y cuéntame qué obtuviste para seguir.
 
 1. Crea `logs.txt` con cinco líneas como el ejemplo y busca `ERROR` ignorando mayúsculas y mostrando números de línea.  
    ```bash
